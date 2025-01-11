@@ -31,7 +31,7 @@ Before you begin, you will need the following tools: [Git](https://git-scm.com),
 
 ```bash
 # Clone this repository
-git clone https://github.com/MalcolmMello/CountriesAPI
+git clone https://github.com/anajuliamedeirosfaustino/-Country-Info-App.git
 # Access the project folder from your terminal
 cd CountriesAPI
 
