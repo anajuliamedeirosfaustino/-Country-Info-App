@@ -1,5 +1,5 @@
 
-<h1>🚀🚀 Countries API 🚀🚀</h1>
+<h1>🚀🚀 Countries APP 🚀🚀</h1>
 
 <h2>About</h2>
 <p> See information about multiple countries on the home screen, filter by name and region, and <br/>
